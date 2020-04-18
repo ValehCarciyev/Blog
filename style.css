@@ -1,0 +1,32 @@
+.blog{
+	position: relative;
+	width: 50%;
+	border: solid 15px grey;
+	left: 25%;
+	 
+	
+
+}
+.blog h4{
+	color: lightblue;
+	
+}
+.blog article{
+	color: 	#686868;
+	margin-left: 10px;
+
+
+}
+.blog h1{
+
+	margin-left: 20px;
+}
+h1:hover{
+	color: red;
+}
+article:hover{
+	color: black;
+}
+h4:hover{
+	color: blue;
+}
